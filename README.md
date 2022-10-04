@@ -1,4 +1,5 @@
 # [Click to Play](https://madhurajayashanka.github.io/React-Memory-Game)
+![Thumbnail](https://github.com/madhurajayashanka/React-Memory-Game/blob/development/thumbnail.PNG?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
