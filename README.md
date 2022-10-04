@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# [Click to Play](https://madhurajayashanka.github.io/React-Memory-Game)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
